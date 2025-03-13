@@ -1,5 +1,5 @@
 # alarmCapture
-streamlit
+selenium
 
 ## 구성
 * faxCheck.py
